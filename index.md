@@ -1,3 +1,4 @@
-#My page
+My page
+~~~~~~~
 
-Hello world
+Hello world.
