@@ -28,7 +28,7 @@ The source code for this is here: [my github repo](https://github.com/warmist/Pi
 Main issues:
 
 * This takes too long - the second image took full night to show up. This is mainly due to wasted cycles with rays that miss the target.
-* Does not look too interesting :|
+* Does not look too interesting.
 * Log normed rendering is not idea for this kind of algo. It requires a huge amount of data and looks better with very uneven distribution (e.g. in case of fractal flames, there could be 10e9 difference in bright and dark parts of image).
 
 # Other
