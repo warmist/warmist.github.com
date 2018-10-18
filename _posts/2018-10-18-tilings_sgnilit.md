@@ -2,11 +2,8 @@
 layout: post
 title: Tilings sgniliT
 categories: [procgen]
+mathjax: true
 ---
-
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 ![Tiling fractal](https://i.imgur.com/GOT6mSH.png "Oops i tiled it again")
 
