@@ -77,3 +77,5 @@ However this still needs work to be fully closed system:
 # Conclusion
 
 It's a very interesting toy to experiment and see some emergent behavior. My approach is more object oriented (i.e. plants and worms are objects) but you could go more [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) path and get different cell interactions that way (e.g. make artificial cells with cell membrane being one type insides different kind cells). And any way you go it's a very dynamic and 'alive' toy.
+
+Code for this is [here](https://github.com/warmist/PixelDance/blob/master/projects/ecology.lua).
