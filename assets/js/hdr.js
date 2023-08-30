@@ -371,7 +371,7 @@ function loadTexture(gl) {
 
 
 
-  const myRequest = new Request("assets/img/saved_1693195817.buf",{
+  const myRequest = new Request(window.location.origin+"/assets/img/saved_1693195817.buf",{
     headers: {
       "Content-Type": "application/octet-stream",
     },
